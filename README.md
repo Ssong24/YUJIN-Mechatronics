@@ -18,11 +18,11 @@
 
 
 <p align="left"> <img src='Images/rgbCam_Rect.jpg' align="left" height="400px">
-  <em>RGB 카메라에서 사각형 검출 테스트</em>
+<p>RGB 카메라에서 사각형 검출 테스트</p>
   
   
   
-####Depth 카메라에서 사각형 검출 테스트
+<p>Depth 카메라에서 사각형 검출 테스트</p>
 <p align="left"> <img src='Images/depthCam_Rect.jpg' align="left" height="400px">
 
   
