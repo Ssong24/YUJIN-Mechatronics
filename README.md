@@ -20,12 +20,12 @@
 <p>Depth 카메라에서 사각형 검출 테스트</p>
 ###RGB, Depth 센서 정보 통합한 실시간 테스트
 -->
-<p align="left"> <img src='Images/rgbCam_Rect.jpg' align="left" height="400px">
+<p align="left"> <img src='Images/rgbCam_Rect.jpg' align="left" width="400px">
 
-<p align="left"> <img src='Images/depthCam_Rect.jpg' align="left" height="400px">
+<p align="left"> <img src='Images/depthCam_Rect.jpg' align="left" width="400px">
 
   
   
   
 
-<p align="left"> <img src='Images/AllObjectLocalized.jpg' align="left" height="400px">
+<p align="left"> <img src='Images/AllObjectLocalized.jpg' align="left" width="400px">
