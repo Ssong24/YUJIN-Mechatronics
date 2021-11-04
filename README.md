@@ -28,5 +28,5 @@
   
   
   
-####RGB, Depth 센서 정보 통합한 실시간 테스트
-<p align="left"> <img src='Images/iAllObjectLocalized.jpg' align="left" height="400px">
+###RGB, Depth 센서 정보 통합한 실시간 테스트
+<p align="left"> <img src='Images/AllObjectLocalized.jpg' align="left" height="400px">
