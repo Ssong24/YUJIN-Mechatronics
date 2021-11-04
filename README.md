@@ -16,17 +16,17 @@
 * 시물레이션: [Youtube](https://youtu.be/Ebg1baApILk)
 
 
-RGB 카메라에서 사각형 검출 테스트
-![ㅈㅈ](<p align="left"> <img src='Images/rgbCam_Rect.jpg' align="left" height="400px">)
+####RGB 카메라에서 사각형 검출 테스트
+<p align="left"> <img src='Images/rgbCam_Rect.jpg' align="left" height="400px">
 
   
   
   
-* Depth 카메라에서 사각형 검출 테스트
+####Depth 카메라에서 사각형 검출 테스트
 <p align="left"> <img src='Images/depthCam_Rect.jpg' align="left" height="400px">
 
   
   
   
-* RGB, Depth 센서 정보 통합한 실시간 테스트
+####RGB, Depth 센서 정보 통합한 실시간 테스트
 <p align="left"> <img src='Images/iAllObjectLocalized.jpg' align="left" height="400px">
