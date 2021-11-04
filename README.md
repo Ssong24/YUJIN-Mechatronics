@@ -18,7 +18,7 @@
 
 
 <p align="left"> <img src='Images/rgbCam_Rect.jpg' align="left" height="400px">
-*RGB 카메라에서 사각형 검출 테스트*
+  <em>RGB 카메라에서 사각형 검출 테스트</em>
   
   
   
